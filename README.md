@@ -1,4 +1,4 @@
-# Renu Alias
+# <h1 align="center">Renu Alias</h1>
 
 **Full Stack Developer · AI Engineer**
 
