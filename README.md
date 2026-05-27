@@ -1,4 +1,4 @@
-# <p align-"center>Renu Alias</p>
+# <p align-"center">Renu Alias</p>
 BTech Computer Science Major focused on AI-powered applications and full-stack development<br>Exploring intelligent systems, automation, and real-world AI integrations<br>Interested in Full Stack Development, AI Engineering, and scalable software systems<br>Currently building cross-platform apps and expanding my app development skills
 
 
