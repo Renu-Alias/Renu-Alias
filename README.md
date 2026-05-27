@@ -1,5 +1,5 @@
 # <h1 align="center">Renu Alias</h1>
-<ul align="center" style="list-style-position: inside;">
+<ul style="list-style-position: inside;">
   <li>BTech Computer Science Major focused on AI-powered applications and full-stack development</li>
   <li>Exploring intelligent systems, automation, and real-world AI integrations</li>
   <li>Interested in Full Stack Development, AI Engineering, and scalable software systems</li>
