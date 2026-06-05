@@ -43,7 +43,6 @@ Building AI-powered applications and scalable software systems. Focused on real-
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/netlify/:projectId)
 
 **Tools & Design**
 
