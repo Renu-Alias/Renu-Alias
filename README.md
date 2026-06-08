@@ -6,10 +6,13 @@
 Building AI-powered applications and scalable software systems. Focused on real-world automation and integrations across the full stack.
 
 <p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renu-alias-0022a2329/">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:renualiasmth@gmail.com">
+  <a href="https://www.linkedin.com/in/renu-alias-0022a2329/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
----
+  <a href="mailto:renualiasmeleth@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ## Tech Stack
