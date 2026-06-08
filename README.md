@@ -13,7 +13,7 @@ Building AI-powered applications and scalable software systems. Focused on real-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=renualiasmeleth@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
+</p> 
 
 ## Tech Stack
 
