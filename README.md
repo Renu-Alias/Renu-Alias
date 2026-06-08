@@ -40,6 +40,7 @@ Building AI-powered applications and scalable software systems. Focused on real-
 
 **Cloud & Deployment**
 
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-8E75FF?style=flat&logo=google-gemini&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
