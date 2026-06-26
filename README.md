@@ -64,8 +64,6 @@ Building AI-powered applications and scalable software systems. Focused on real-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Renu-Alias&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=Renu-Alias&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Renu-Alias&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -73,6 +71,3 @@ Building AI-powered applications and scalable software systems. Focused on real-
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Renu-Alias&color=0e75b6&style=flat" alt="Profile views" />
-</p>
